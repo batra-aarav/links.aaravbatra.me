@@ -14,10 +14,10 @@
     <img src="siteicon.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Aarav Batra's Personal Portfolio</h3>
+<h3 align="center">Aarav Batra's Personal Portfolio Link Subdomain</h3>
 
   <p align="center">
-    Professional Personal Portfolio
+    Professional Personal Portfolio "links.aaravbatra.me" Subdomain
     <br />
     <br />
     <a href="https://github.com/batra-aarav/batra-aarav.github.io">View Website</a>
