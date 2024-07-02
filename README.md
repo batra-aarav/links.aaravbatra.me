@@ -90,7 +90,6 @@ Project Link: [https://github.com/batra-aarav/batra-aarav.github.io](https://git
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [Based off of CloudCannon Edition Jekyll Template](https://github.com/CloudCannon/edition-jekyll-template)
 * [Othneil Drew for the Best README Template](https://github.com/othneildrew/Best-README-Template)
 * [Created with ❤️ by Aarav Batra](https://github.com/batra-aarav)
 
