@@ -32,7 +32,7 @@ body {
     flex-grow: 1;
 }
 
-#isxag-2 {
+#body-link {
     padding-top: 25px;
     background-repeat: repeat;
     background-position: left top;
@@ -62,18 +62,18 @@ body {
     flex-basis: 100%;
 }
 
-#iph5i-2 {
+#pfp {
     display: flex;
     justify-content: space-around;
 }
 
-#iwfo7-2 {
+#caption {
     text-align: center;
     color: white;
     font-size: 16px;
 }
 
-#i4b9s-2 {
+#caption {
     padding: 10px 10px 10px 10px;
 }
 
@@ -100,7 +100,7 @@ body {
     justify-content: center;
 }
 
-#i7q1k-2 {
+#title {
     margin-bottom: 2.5px;
     text-align: center;
     color: white;
@@ -116,7 +116,7 @@ body {
     color: white;
 }
 
-#ik0yg-2 {
+#image-pfp {
     margin-top: 30px;
     color: black;
     width: 100px;
