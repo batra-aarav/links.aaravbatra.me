@@ -2,6 +2,10 @@
     box-sizing: border-box;
 }
 
+a {
+    text-decoration: none;
+  }
+
 body {
     margin: 0;
 }
@@ -59,7 +63,6 @@ body {
 .cell {
     min-height: 75px;
     flex-grow: 1;
-    flex-basis: 100%;
 }
 
 #pfp {
@@ -129,7 +132,8 @@ body {
     justify-content: left;
     align-items: center;
     min-height: 50px;
-    flex-basis: 0%;
+    max-width: 50px;
+
 }
 
 #ij1kip-2 {
@@ -142,10 +146,12 @@ body {
     min-height: 50px;
     display: flex;
     justify-content: center;
+    transform: translateX(-20px);
     align-items: center;
 }
 
 #ikfkjd-2 {
+    min-width: 200px;
     max-width: calc(100% - 66.66%);
     margin: auto;
     background-repeat: repeat;
@@ -176,7 +182,8 @@ body {
     justify-content: left;
     align-items: center;
     min-height: 50px;
-    flex-basis: 0%;
+    max-width: 50px;
+
 }
 
 #ijbmbd {
@@ -189,10 +196,12 @@ body {
     min-height: 50px;
     display: flex;
     justify-content: center;
+    transform: translateX(-20px);
     align-items: center;
 }
 
 #imkw1p {
+    min-width: 200px;
     max-width: calc(100% - 66.66%);
     margin: auto;
     background-repeat: repeat;
@@ -217,7 +226,8 @@ body {
     justify-content: left;
     align-items: center;
     min-height: 50px;
-    flex-basis: 0%;
+    max-width: 50px;
+
 }
 
 #iicaty {
@@ -230,10 +240,12 @@ body {
     min-height: 50px;
     display: flex;
     justify-content: center;
+    transform: translateX(-20px);
     align-items: center;
 }
 
 #inih0m {
+    min-width: 200px;
     max-width: calc(100% - 66.66%);
     margin: auto;
     background-repeat: repeat;
@@ -258,7 +270,8 @@ body {
     justify-content: left;
     align-items: center;
     min-height: 50px;
-    flex-basis: 0%;
+    max-width: 50px;
+
 }
 
 #i2kixa {
@@ -271,10 +284,12 @@ body {
     min-height: 50px;
     display: flex;
     justify-content: center;
+    transform: translateX(-20px);
     align-items: center;
 }
 
 #iz0el3 {
+    min-width: 200px;
     max-width: calc(100% - 66.66%);
     margin: auto;
     background-repeat: repeat;
@@ -299,7 +314,8 @@ body {
     justify-content: left;
     align-items: center;
     min-height: 50px;
-    flex-basis: 0%;
+    max-width: 50px;
+
 }
 
 #igjx2k {
@@ -312,10 +328,12 @@ body {
     min-height: 50px;
     display: flex;
     justify-content: center;
+    transform: translateX(-20px);
     align-items: center;
 }
 
 #ipxq73 {
+    min-width: 200px;
     max-width: calc(100% - 66.66%);
     margin: auto;
     background-repeat: repeat;
