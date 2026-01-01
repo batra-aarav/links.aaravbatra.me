@@ -4,7 +4,7 @@
 
 a {
     text-decoration: none;
-  }
+}
 
 body {
     margin: 0;
@@ -42,7 +42,7 @@ body {
     background-position: left top;
     background-attachment: scroll;
     background-size: auto;
-    background-image: linear-gradient(to top, #084517 0%, #547f42);
+    background-image: linear-gradient(to top, #8E0D18 0%, #CC0033);
 }
 
 #iid85-2 {
@@ -261,8 +261,8 @@ body {
 
 #iqodp5 {
     color: black;
-    width: 32px;
-    height: 32px;
+    width: 24px;
+    height: 24px;
 }
 
 #i9oznl {
