@@ -43,6 +43,7 @@ body {
     background-attachment: scroll;
     background-size: auto;
     background-image: linear-gradient(to top, #8E0D18 0%, #CC0033);
+    padding-bottom: 50px;
 }
 
 #profile-row {
